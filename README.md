@@ -38,3 +38,4 @@ Any other comments or feedback you have? Raise an issue and let us know.
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-adding-form-fields-via-ajax'>Rails Video Review: Adding Form Fields via AJAX</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Adding Form Fields via AJAX- Overview</p>
